@@ -12,6 +12,10 @@
     background-color: #dbf8df;
 }
 
+.background{
+    background-color: #536878;
+}
+
 .footer {
     background-color: rgb(189, 189, 189); /* footer background */
 }
@@ -59,6 +63,22 @@
     background-color: #679376;
 }
 /* ----------------- ID -----------------*/
+
+/* ----------------- Chart.js CSS ----------------- */
+.chart-container{
+    background-color: #dbe3e7 !important;
+    width: 100%;
+}
+
+#chart-wrapper{
+    margin: auto; 
+    padding: 10px;
+    height: 40vh;
+    min-height: 350px;
+    width:  80vw;
+    justify-content: center;
+    align-items: center;
+}
 
 
 /* -----------------Underline Animation CSS -----------------*/
